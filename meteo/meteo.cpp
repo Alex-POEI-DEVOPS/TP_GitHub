@@ -7,7 +7,7 @@
 #include<iostream>
 using namespace std;
 
-///le constructeur par défaut
+///le constructeur par défault
 /// @code
 /// Meteo::Meteo()
 ///{}
